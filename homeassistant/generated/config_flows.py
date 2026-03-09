@@ -409,6 +409,7 @@ FLOWS = {
         "madvr",
         "mailgun",
         "mastodon",
+        "matrix",
         "matter",
         "mcp",
         "mcp_server",
