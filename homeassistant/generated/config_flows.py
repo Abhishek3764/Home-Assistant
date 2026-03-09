@@ -536,6 +536,7 @@ FLOWS = {
         "philips_js",
         "pi_hole",
         "picnic",
+        "picotts",
         "ping",
         "plaato",
         "playstation_network",
