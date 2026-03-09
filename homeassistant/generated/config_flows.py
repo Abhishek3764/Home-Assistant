@@ -559,6 +559,7 @@ FLOWS = {
         "proxmoxve",
         "prusalink",
         "ps4",
+        "ptdevices",
         "pterodactyl",
         "pure_energie",
         "purpleair",
